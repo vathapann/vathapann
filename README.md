@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]  
+# 👋 Hi there, I'm Sovatha 
 
 💻 Software Engineer | 🚀 DevOps Enthusiast | 🌏 Lifelong Learner  
 
@@ -43,19 +43,19 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)  
 
----
+<!-- ---
 
 ## 📊 GitHub Insights  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
 
----
+--- -->
 
 ## ✍️ Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How I Set Up CI/CD for a Django Project with Docker](#)
-- [Beginner’s Guide to Zero Trust Security](#)
-- [Deploying Laravel with Docker Compose](#)
+- [How I Set Up CI/CD for a Django Project with Docker](https://github.com/vathapann/poc-django-cicd)
+- [Beginner’s Guide to Zero Trust Security](https://github.com/vathapann/beginner-guide-to-zero-trust)
+<!-- - [Deploying Laravel with Docker Compose](#) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---

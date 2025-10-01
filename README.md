@@ -42,17 +42,17 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)  
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)   -->
 
----
+<!-- --- -->
 
-## 🚀 Fun Extras  
+<!-- ## 🚀 Fun Extras  
 - ✍️ I write about tech on [Medium](https://medium.com/@yourhandle)  
 - 🎥 I share knowledge on [YouTube](https://youtube.com/@yourchannel)  
-- 📸 I enjoy photography, travel, and coding side-projects  
+- 📸 I enjoy photography, travel, and coding side-projects   -->
 
----
-⭐️ From [yourusername](https://github.com/yourusername)
+<!-- ---
+⭐️ From [yourusername](https://github.com/yourusername) -->
